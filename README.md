@@ -8,6 +8,14 @@
 
 <p align="center">macOS 13.0+ · Spotify · Apple Music</p>
 
+<p align="center">
+  <a href="https://github.com/jackcool321/LyricMist/releases/latest/download/LyricMist.dmg"><strong>下载 LyricMist.dmg</strong></a>
+  ·
+  <a href="https://github.com/jackcool321/LyricMist/releases">所有版本</a>
+</p>
+
+<p align="center">下载后打开 DMG，将 LyricMist 拖入 Applications（应用程序）即可安装。</p>
+
 ---
 
 LyricMist 是一款 macOS 歌词小工具。照常在 Spotify 或 Apple Music 中播放音乐，歌词会自动出现在桌面或菜单栏，无需来回切换播放器。
